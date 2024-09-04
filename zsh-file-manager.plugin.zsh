@@ -1,0 +1,1 @@
+zsh-file-manager.zsh
